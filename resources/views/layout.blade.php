@@ -278,9 +278,11 @@
               </div><!--/category-products-->
             </div>
                         
-            <div class="shipping text-center"><!--shipping-->
+            <!--shipping-->
+            <!-- <div class="shipping text-center">
               <img src="images/home/shipping.jpg" alt="" />
-            </div><!--/shipping-->
+            </div> -->
+            <!--/shipping-->
           </div>
         </div>
         
