@@ -1,0 +1,6 @@
+INFO/
+.env
+storage/framework/sessions/
+public/image/
+storage/framework/views/
+public/image
